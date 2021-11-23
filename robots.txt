@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://allpict.github.io/sketch-design/sitemapx.xml
